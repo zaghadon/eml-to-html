@@ -33,7 +33,7 @@ def eml_to_html(eml_path_str: Union[str, Path]) -> Path:
         print(f"🟡 Skipping `{eml_path}`; not an .eml file")
 
     html_path: Path = eml_path.with_suffix(".html")
-    with eml_path.open(mode="r") as eml_file, html_path.open(
+    with eml_path.open(mode="r", encoding="latin-1") as eml_file, html_path.open(
         mode="w", encoding="utf-8"
     ) as html_file:
         message: Message = message_from_file(eml_file)
