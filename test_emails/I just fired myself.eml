@@ -1,0 +1,1011 @@
+Return-Path: <bounce-133599302@bounce.gr-mail2.com>
+Delivered-To: test@test.com
+Received: from vs-silk.seodns.one
+	by vs-silk.seodns.one with LMTP
+	id 8JEYJEuUw2WAOh8A0Q/Arg
+	(envelope-from <bounce-133599302@bounce.gr-mail2.com>)
+	for <test@test.com>; Wed, 07 Feb 2024 18:31:39 +0400
+Return-path: <bounce-133599302@bounce.gr-mail2.com>
+Envelope-to: test@test.com
+Delivery-date: Wed, 07 Feb 2024 18:31:39 +0400
+Received: from mta-3.omega.gr-mail2.com ([104.160.64.84]:13250)
+	by vs-silk.seodns.one with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.96.2)
+	(envelope-from <bounce-133599302@bounce.gr-mail2.com>)
+	id 1rXixb-008aI4-1r
+	for test@test.com;
+	Wed, 07 Feb 2024 18:31:38 +0400
+Content-Type: multipart/alternative; boundary=39737a24c994553a6f12ac98cfcb0dec
+Date: Wed, 07 Feb 2024 14:30:53 +0000
+DKIM-Signature: a=rsa-sha256; b=JBt70Q4jFfbtX6AnzMwi2VU9RvfWxQPtgXhtJbdv/rG3yvUU2JKBC/zwTDyKDKFDUBvPmi0751CzhVgVpdw2Y4Tnri8mehTJQao58vO0fUhRhSpi7DqU9qQ5c8BMb8KE9Vo2oTyBCEz2ub5YeKPTdRrK2s9v+XQIZuN6U9ktq34=; bh=wtesUNQrTEz3fr8b6AiXjKHrDugXVCHfUAewzCARlM0=; c=simple/simple; d=grammarhippy.com; h=Sender:From:From:To:To:CC:Subject:Subject:Message-ID:Message-ID:Form-Sub:List-Unsubscribe:List-Unsubscribe:List-Unsubscribe-Post:List-Unsubscribe-Post:X-CSA-Complaints:X-CSA-Complaints; s=c4159c58; t=1707316253; v=1; x=1707402653;
+DKIM-Signature: a=rsa-sha256; b=1GM9w2WPmhTuD385LJ+fXSvg2WxAsJj7miMCGyH4qDjSjknpaNXTV7bjvcxp/UiMsCItiOdGLuUwEIyvq++4oFOgidnKXLPJXBgMb5/0evxlQhlOcxu3oontU4iZof0s49iI9ucYf+h211Sw1qreXQc2jUDREqFr7mjpvfeP2xw=; bh=wtesUNQrTEz3fr8b6AiXjKHrDugXVCHfUAewzCARlM0=; c=simple/simple; d=gr-mail2.com; h=Sender:From:From:To:To:CC:Subject:Subject:Message-ID:Message-ID:Form-Sub:List-Unsubscribe:List-Unsubscribe:List-Unsubscribe-Post:List-Unsubscribe-Post:X-CSA-Complaints:X-CSA-Complaints; s=k1024e; t=1707316253; v=1; x=1707402653;
+From: "George Ten" <george@grammarhippy.com>
+List-Unsubscribe: <https://app.getresponse.com/one_click_unsubscribe.html?x=a62b&m=B0EosF&s=BQMFueT&u=MSfRZ&z=Ey8CygO&>, <mailto:listunsubscribe@gr-mail2.com?subject=getresponse.xserial.s56bSLXZO8Yb3b9F61YPfsuXzu3XqEpwpipsOM3hLBMSwileo2RAso6oYF9%2FrQBzZQhG6eGgQbPc7Wca7jfgzftLvU3eUZtzdh1j6rbUEEBi%2BZjcpLZedUOCoow6p2d8c175AWxcd8rfYBOvbNTXL2ngzg%3D%3D>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Message-ID: <getresponse.xserial.s56bSLXZO8Yb3b9F61YPfsuXzu3XqEpwpipsOM3hLBMSwileo2RAso6oYF9/rQBzZQhG6eGgQbPc7Wca7jfgzftLvU3eUZtzdh1j6rbUEEBi+ZjcpLZedUOCoow6p2d8c175AWxcd8rfYBOvbNTXL2ngzg==@gr-mail2.com>
+MIME-Version: 1.0
+Reply-To: george@grammarhippy.com
+Require-Recipient-Valid-Since: test@test.com; Fri, 10 Mar 2023 15:18:53 +0000
+Subject: I just fired myself
+To: "David" <test@test.com>
+X-Complaints-To: abuse@gr-mail2.com
+X-CSA-Complaints: csa-complaints@eco.de
+X-Spam-Status: No, score=0.1
+X-Spam-Score: 1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "vs-silk.seodns.one",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Frame control & future pacing. Take notes.‌ ‌ ‌ ‌
+   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+    ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ � [...] 
+ Content analysis details:   (0.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: gr-mail2.com]
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  0.0 T_KAM_HTML_FONT_INVALID Test for Invalidly Named or Formatted
+                             Colors in HTML
+X-Spam-Flag: NO
+
+
+--39737a24c994553a6f12ac98cfcb0dec
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+
+Frame control & future pacing. Take notes.=E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C=20=0AI just fired myself from my own business.=0A=
+=0A=0A=0A=0AAnd this is the best lesson you'll learn about "frame control".=
+=0AAnd about "future pacing".=0A=0A=0A=0A=0AThe best.=0A=0A=0A=0A=0APromise=
+.=0A=0A=0A=0A=0ATake notes.=0A=0A=0A=0AWhy did I fire myself?=0A=0A=0A=0AI'=
+ve been working on the "10-Minute-Email-Storytelling" course for way too lo=
+ng now.=0A=0A=0A=0A=0AFighting with myself in my head.=0A=0A=0A=0A=0A * "I =
+need to add more examples. More. MorRReeEEEE"=0A=20=20=20=0A * "Is this cle=
+ar enough? One more module about this. And one more. Just to make sure."=0A=
+=20=20=20=0A * "Will they understand this? Where can they get stuck? How do=
+ I solve it? Another method and another and another."=0A=20=20=20=0A * "Is =
+this slide designed in the best way possible?"=0A=20=20=20=0A=0A=0A=0AI'm d=
+oing anything I can to make sure there will be ZERO doubt about each and ev=
+ery element inside.=0A=0A=0A=0A=0A... And that's why it takes so long.=0A=
+=0A=0A=0A=0AToo long.=0A=0A=0A=0A=0ASo I decided to fire myself. "Go home p=
+erfectionist George. YOU'RE DRUNK!"=0A=0A=0A=0A=0ASo what will I do instead=
+?=0A=0A=0A=0AThe new plan to get you the best=0Astorytelling training on th=
+e internet=0A=0A=0A=0A=0A=0AEnter hippy George.=0A=0A=0A=0A=0AThe George th=
+at doesn't care about design. The George that only cares about giving you t=
+he best information out there. Step by step.=0A=0A=0A=0A=0AAnd if anything =
+is not clear?=0A=0A=0A=0A=0AI'll just give you a couple of bonuses that wil=
+l ENSURE you get EVERYTHING and that you're able to execute EVERYTHING in t=
+he training at the highest level.=0A=0A=0A=0A=0AWanna hear what those bonus=
+es will be?=0A=0A=0A=0AThe bonuses you'll get when you join the program=0A=
+=0A=0A=0ABonus #1: A live Q&A.=0A=0A=0A=0A=0AI'll give you some time to go =
+through the training and experiment with writing stories that sell yourself=
+.=0A=0A=0A=0A=0AThen? We'll jump on a Q&A call where you can ask me anythin=
+g and we'll also probably have time to go through some of your stories. LIV=
+E. That way?=0A=0A=0A=0A=0AYou'll NEVER get stuck.=0A=0A=0A=0A=0A=0A=0ABonu=
+s #2: Breakdowns=0A=0A=0A=0A=0AI'll share with you as many story email brea=
+kdowns as I can. I'll take some of the best emails I've written...=0A=0A=0A=
+=0A=0AAnd walk you through them. Step-by-step. Sharing my thinking process =
+and the elements I've used. To make sure you understand EVERYTHING I do wit=
+h story emails.=0A=0A=0A=0A=0A=0A=0ABonus #3: Live call with the Maestro=0A=
+=0A=0A=0A=0AEver heard the name "Pedro Martins"? I call him "The Maestro".=
+=0A=0A=0A=0A=0AThis guy has been doing email storytelling for longer than I=
+ have been in marketing. And the most fun thing about him?=0A=0A=0A=0A=0AHe=
+ uses a VERY similar method for writing his stories as I do and teach in th=
+e program. But he THINKS about email storytelling in a different way.=0A=0A=
+=0A=0A=0AHis expertise allowed him to sell products as high as $46,000 thro=
+ugh emails. And he's worked with some of the biggest players in our industr=
+y. Think "Tony Robbins" level people.=0A=0A=0A=0A=0AHe also manages lists o=
+f as big as ONE MILLION people.=0A=0A=0A=0AIf after all of those bonuses yo=
+u're still struggling?=0A=0A=0A=0AI'll offer you even more.=0A=0A=0A=0A=0A3=
+0 days of support with our BEST storytelling coach. This guy is writing sto=
+ries as powerful as mine but he's MUCH better at explaining the process tha=
+n I am.=0A=0A=0A=0A=0ASo I'll offer you a month of group coaching with him.=
+ Here's how it's gonna work:=0A=0A=0A=0A=0AYou decide to get that option (i=
+t's paid)... and we throw you into a small WhatsApp or Telegram group with =
+the coach and 9 other people MAXIMUM.=0A=0A=0A=0A=0AYou'll get access to (p=
+robably) the brightest mind on X when it comes to storytelling that sells.=
+=0A=0A=0A=0A=0AAnd...=0A=0A=0A=0AIf that's still not enough?!=0A=0A=0A=0AWe=
+'ll offer you "The Trickster's Toolbox".=0A=0A=0A=0A=0AThat's a toolbox of =
+10 EVERGREEN email frameworks. And it will allow you to write email stories=
+ that sell ON DEMAND.=0A=0A=0A=0A=0AYou open the file -- pick a framework -=
+- and write. It's that easy and it'll save you TONS of time.=0A=0A=0A=0A=0A=
+The guy who created this product is the coach I described above. Each frame=
+work of his is GOLD.=0A=0A=0A=0A=0AMore about that later.=0A=0A=0A=0A=0AAnd=
+...=0A=0A=0A=0AIf that's still not enough?!=0A=0A=0A=0AYou can also get the=
+ coaching package.=0A=0A=0A=0A=0A4 one-on-one calls with our coach where hi=
+s full attention is on your stories.=0A=0A=0A=0A=0AYou'll be able to run yo=
+ur stories through him and get his immediate feedback and even write a stor=
+y with him live.=0A=0A=0A=0A=0AAnd...=0A=0A=0A=0AIf you STILL can't write s=
+tory emails that sell?=0A=0A=0A=0AI'm sorry.=0A=0A=0A=0A=0AI've done everyt=
+hing in my power to make sure that you will be able to write stories as eas=
+ily as it is to eat chips.=0A=0A=0A=0A=0AHell...=0A=0A=0A=0A=0AI've had mor=
+e than 500 people go through the mini-training and they all were able to wr=
+ite INCREDIBLE stories.=0A=0A=0A=0A=0AIf after the FULL training you still =
+can't? You're just a lazy ass who likes to complain instead of taking actio=
+n. Sorry. That's the best I can do for you.=0A=0A=0A=0A=0ANow you might be =
+asking...=0A=0A=0A=0A"But George where's the AHA moment in this email???"=
+=0A=0A=0A=0AYou're right. I keep saying that there should be an "AHA moment=
+" in every single email.=0A=0A=0A=0A=0AAnd there is one here. There are act=
+ually two. You just don't know about it...=0A=0A=0A=0A=0AYet :)=0A=0A=0A=0A=
+=0ASo let me share two AHA moments that you got from this email:=0A=0A=0A=
+=0A=0A=0A=0AAHA moment #1: Frame control.=0A=0A=0A=0A=0ALook. A lot of mark=
+eters get a lot of unsatisfied customers and some even get a ton of refund =
+requests and even chargebacks.=0A=0A=0A=0A=0AWhy?=0A=0A=0A=0A=0ABecause the=
+ customer didn't get exactly what he or she expected.=0A=0A=0A=0A=0AThat's =
+why "framing" the onboarding is important. Notice how I did that in the sto=
+ry I wrote above?=0A=0A=0A=0A=0AI primed you to understand that the design =
+on the slides is not gonna be the best. So you're not gonna get disappointe=
+d. Because you're expecting that.=0A=0A=0A=0A=0AUnderstand?=0A=0A=0A=0A=0AI=
+ frame control'd you.How does it feel? LOL.=0A=0A=0A=0A=0AThere's more.=0A=
+=0A=0A=0A=0A=0A=0AAHA moment #2: Future pacing.=0A=0A=0A=0A=0ANotice how I =
+told you about all the different options I'll offer you?=0A=0A=0A=0A=0AThat=
+'s me preparing you to be ready. There will be more than one offer for you =
+to pick from.=0A=0A=0A=0A=0AI also handled your objection. "But won't if I =
+still won't be able to write good stories that sell?"=0A=0A=0A=0A=0AAnd now=
+...=0A=0A=0A=0A=0ASome of you have already made up your mind. "I'll just ta=
+ke the course and that's it."=0A=0A=0A=0A=0AWhich is good. The course is al=
+l you need. But others are now thinking...=0A=0A=0A=0A=0A"Oh maybe I should=
+ get one of the other things they're gonna offer. Probably depends on the p=
+rice. How expensive is it gonna be? Because I'd love support and frameworks=
+."=0A=0A=0A=0A=0ARight where I want you.=0A=0A=0A=0A=0AThinking about my pr=
+oduct.=0A=0A=0A=0A=0A=0A=0A=0A=0AP.S.=0A=0A=0A=0A=0AI've used the "direct A=
+HA moment" approach here. I TOLD you what the "AHA moment" was. I explained=
+ it.=0A=0A=0A=0A=0AThat is one of several ways you can use the "AHA moment"=
+ to connect it to the story and your offer.=0A=0A=0A=0A=0AI'll go more in-d=
+epth on how to do this and show you the other ways inside the training.=0A=
+=0A=0A=0A=0A=0A=0A=0A=0AP.P.S.=0A=0A=0A=0A=0ANow I handled your biggest obj=
+ections and made sure you'll come on to the program in the RIGHT MINDSET.=
+=0A=0A=0A=0A=0AThis is what good storytelling can do.=0A=0A=0A=0A=0AAnd you=
+ didn't even know that's what I was doing as you were reading. Powerful stu=
+ff isn't it?=0A=0A=0A=0A=0AYou'll soon harness that power.=0A=0A=0A=0A=0AHo=
+pe it'll all be ready for you to dive into by the end of this week. Might t=
+ake a bit longer but we're getting close :)=0A=0A=0A=0A=0AHope you're as ex=
+cited as I am!=0A=0A=0A=0AYou may unsubscribe [https://app.getresponse.com/=
+unsubscribe.html?x=3Da62b&m=3DB0EosF&mc=3DCX&s=3DBQMFueT&u=3DMSfRZ&z=3DECno=
+w3w&pt=3Dunsubscribe] or change your contact details [https://app.getrespon=
+se.com/change_details.html?x=3Da62b&m=3DB0EosF&s=3DBQMFueT&u=3DMSfRZ&z=3DEh=
+539RK&pt=3Dchange_details] at any time.=0A=
+
+--39737a24c994553a6f12ac98cfcb0dec
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<!doctype html><html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:=
+schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:offi=
+ce"><head><title></title><!--[if !mso]><!--><meta http-equiv=3D"X-UA-Compat=
+ible" content=3D"IE=3Dedge"><!--<![endif]--><meta http-equiv=3D"Content-Typ=
+e" content=3D"text/html; charset=3DUTF-8"><meta name=3D"viewport" content=
+=3D"width=3Ddevice-width,initial-scale=3D1"><style type=3D"text/css">#outlo=
+ok a { padding:0; }=0A      body { margin:0;padding:0;-webkit-text-size-adj=
+ust:100%;-ms-text-size-adjust:100%; }=0A      table, td { border-collapse:c=
+ollapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }=0A      img { border:0=
+;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interp=
+olation-mode:bicubic; }=0A      p { display:block;margin:13px 0; }</style><=
+!--[if mso]>=0A    <noscript>=0A    <xml>=0A    <o:OfficeDocumentSettings>=
+=0A      <o:AllowPNG/>=0A      <o:PixelsPerInch>96</o:PixelsPerInch>=0A    =
+</o:OfficeDocumentSettings>=0A    </xml>=0A    </noscript>=0A    <![endif]-=
+-><!--[if lte mso 11]>=0A    <style type=3D"text/css">=0A      .mj-outlook-=
+group-fix { width:100% !important; }=0A    </style>=0A    <![endif]--><styl=
+e type=3D"text/css">@media only screen and (min-width:480px) {=0A        .m=
+j-column-per-100 { width:100% !important; max-width: 100%; }=0A      }</sty=
+le><style media=3D"screen and (min-width:480px)">.moz-text-html .mj-column-=
+per-100 { width:100% !important; max-width: 100%; }</style><style type=3D"t=
+ext/css"></style><style type=3D"text/css">@media (max-width: 479px) {=0D=0A=
+.hide-on-mobile {=0D=0Adisplay: none !important;=0D=0A}=0D=0A}.gr-mltext-hm=
+aixy a,=0D=0A.gr-mltext-hmaixy a:visited {=0D=0Atext-decoration: none;=0D=
+=0A}.gr-mltext-cdsuym a,=0D=0A.gr-mltext-cdsuym a:visited {=0D=0Atext-decor=
+ation: none;=0D=0A}.gr-mltext-sonkmr a,=0D=0A.gr-mltext-sonkmr a:visited {=
+=0D=0Atext-decoration: none;=0D=0A}.gr-mltext-nsjkju a,=0D=0A.gr-mltext-nsj=
+kju a:visited {=0D=0Atext-decoration: none;=0D=0A}.gr-mltext-spdynv a,=0D=
+=0A.gr-mltext-spdynv a:visited {=0D=0Atext-decoration: none;=0D=0A}.gr-mlte=
+xt-uiigsp a,=0D=0A.gr-mltext-uiigsp a:visited {=0D=0Atext-decoration: none;=
+=0D=0A}.gr-mltext-ehufwa a,=0D=0A.gr-mltext-ehufwa a:visited {=0D=0Atext-de=
+coration: none;=0D=0A}.gr-mltext-bgttwe a,=0D=0A.gr-mltext-bgttwe a:visited=
+ {=0D=0Atext-decoration: none;=0D=0A}.gr-mltext-khdwtu a,=0D=0A.gr-mltext-k=
+hdwtu a:visited {=0D=0Atext-decoration: none;=0D=0A}.gr-mltext-ofltxd a,=0D=
+=0A.gr-mltext-ofltxd a:visited {=0D=0Atext-decoration: none;=0D=0A}.gr-mlte=
+xt-vxlowi a,=0D=0A.gr-mltext-vxlowi a:visited {=0D=0Atext-decoration: none;=
+=0D=0A}.gr-mltext-apxxcx a,=0D=0A.gr-mltext-apxxcx a:visited {=0D=0Atext-de=
+coration: none;=0D=0A}.gr-mltext-xkeprr a,=0D=0A.gr-mltext-xkeprr a:visited=
+ {=0D=0Atext-decoration: none;=0D=0A}.gr-mltext-blelav a,=0D=0A.gr-mltext-b=
+lelav a:visited {=0D=0Atext-decoration: none;=0D=0A}.gr-mltext-gqlmla a,=0D=
+=0A.gr-mltext-gqlmla a:visited {=0D=0Atext-decoration: none;=0D=0A}.gr-mlte=
+xt-vuxifo a,=0D=0A.gr-mltext-vuxifo a:visited {=0D=0Atext-decoration: none;=
+=0D=0A}.gr-mltext-swanti a,=0D=0A.gr-mltext-swanti a:visited {=0D=0Atext-de=
+coration: none;=0D=0A}.gr-footer-sgpjxy a,=0D=0A.gr-footer-sgpjxy a:visited=
+ {=0D=0Acolor: #00BAFF;=0D=0Atext-decoration: underline;=0D=0A}</style></he=
+ad><body style=3D"word-spacing:normal;background-color:#FFFFFF;"><div style=
+=3D"display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px=
+;max-width:0px;opacity:0;overflow:hidden;">Frame control &amp; future pacin=
+g. Take notes.<div style=3D"max-height:0; overflow:hidden; mso-hide:all;" a=
+ria-hidden=3D"true">&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</div></div><div style=
+=3D"background-color:#FFFFFF;">  <!--[if mso | IE]><table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"" role=3D"present=
+ation" style=3D"width:600px;" width=3D"600" ><tr><td style=3D"line-height:0=
+px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style=3D"m=
+argin:0px auto;max-width:600px;"><table align=3D"center" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"width:100%;">=
+<tbody><tr><td style=3D"border-bottom:0 none #000000;border-left:0 none #00=
+0000;border-right:0 none #000000;border-top:0 none #000000;direction:ltr;fo=
+nt-size:0px;padding:5px;text-align:center;"><!--[if mso | IE]><table role=
+=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td =
+class=3D"" style=3D"vertical-align:top;width:590px;" ><![endif]--><div clas=
+s=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-size:0px;text-al=
+ign:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"=
+><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentati=
+on" width=3D"100%"><tbody><tr><td style=3D"background-color:transparent;bor=
+der-bottom:none;border-left:none;border-right:none;border-top:none;vertical=
+-align:top;padding:0;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" width=3D"100%"><tbody><tr><td align=3D"left" clas=
+s=3D"gr-mltext-iafdvh gr-mltext-hmaixy" style=3D"font-size:0px;padding:10px=
+;word-break:break-word;"><div style=3D"font-family:Ubuntu, Helvetica, Arial=
+, sans-serif;font-size:13px;line-height:1.4;text-align:left;color:#000000;"=
+><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:=
+0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px">I ju=
+st fired myself from my own business.</span></p><p style=3D"font-family:Ari=
+al;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color=
+:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:=
+0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=
+=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-=
+weight:normal;color:#000000;"><span style=3D"font-size: 18px">And this is t=
+he best lesson you'll learn about &quot;<strong>frame control</strong>&quot=
+;.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;ma=
+rgin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size=
+: 18px">And about &quot;<strong>future pacing</strong>&quot;.</span></p><p =
+style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;=
+font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;fo=
+nt-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000=
+000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-siz=
+e: 18px">The best.</span></p><p style=3D"font-family:Arial;font-size:14px;m=
+argin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p>=
+<p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0=
+px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial=
+;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#=
+000000;"><span style=3D"font-size: 18px">Promise.</span></p><p style=3D"fon=
+t-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:=
+normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></=
+p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom=
+:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px">Tak=
+e notes.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:=
+0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p></div></td=
+></tr><tr><td align=3D"left" class=3D"gr-mltext-iafdvh gr-mltext-cdsuym" st=
+yle=3D"font-size:0px;padding:10px;word-break:break-word;"><div style=3D"fon=
+t-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.=
+4;text-align:left;color:#000000;"><div style=3D"text-align: center;"><p sty=
+le=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fon=
+t-weight:normal;color:#000000;"><span style=3D"font-size: 22px">Why did I f=
+ire myself?</span></p></div></div></td></tr><tr><td align=3D"left" class=3D=
+"gr-mltext-iafdvh gr-mltext-sonkmr" style=3D"font-size:0px;padding:10px;wor=
+d-break:break-word;"><div style=3D"font-family:Ubuntu, Helvetica, Arial, sa=
+ns-serif;font-size:13px;line-height:1.4;text-align:left;color:#000000;"><p =
+style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;=
+font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;fo=
+nt-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000=
+000;"><span style=3D"font-size: 18px">I've been working on the &quot;10-Min=
+ute-Email-Storytelling&quot; course for way too long now.</span></p><p styl=
+e=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font=
+-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-s=
+ize:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;=
+"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margi=
+n-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 1=
+8px">Fighting with myself in my head.</span></p><p style=3D"font-family:Ari=
+al;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color=
+:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:=
+0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><ul><li st=
+yle=3D"font-size: 18px;"><p style=3D"font-family:Arial;font-size:14px;margi=
+n-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=
+=3D"font-size: 18px">&quot;I need to add more examples. More. MorRReeEEEE&q=
+uot;</span></p></li><li style=3D"font-size: 18px;"><p style=3D"font-family:=
+Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;co=
+lor:#000000;"><span style=3D"font-size: 18px">&quot;Is this clear enough? O=
+ne more module about this. And one more. Just to make sure.&quot;</span></p=
+></li><li style=3D"font-size: 18px;"><p style=3D"font-family:Arial;font-siz=
+e:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;">=
+<span style=3D"font-size: 18px">&quot;Will they understand this? Where can =
+they get stuck? How do I solve it? Another method and another and another.&=
+quot;</span></p></li><li style=3D"font-size: 18px;"><p style=3D"font-family=
+:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;c=
+olor:#000000;"><span style=3D"font-size: 18px">&quot;Is this slide designed=
+ in the best way possible?&quot;</span></p></li></ul><p style=3D"font-famil=
+y:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;=
+color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin=
+-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=
+=3D"font-size: 18px">I'm doing anything I can to make sure there will be ZE=
+RO doubt about each and every element inside.</span></p><p style=3D"font-fa=
+mily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:norm=
+al;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;mar=
+gin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p=
+ style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px=
+;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px">... And=
+ that's why it takes so long.</span></p><p style=3D"font-family:Arial;font-=
+size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000=
+;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;marg=
+in-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-f=
+amily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:nor=
+mal;color:#000000;"><span style=3D"font-size: 18px">Too long.</span></p><p =
+style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;=
+font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;fo=
+nt-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000=
+000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-siz=
+e: 18px">So I decided to fire myself. &quot;Go home perfectionist George. Y=
+OU'RE DRUNK!&quot;</span></p><p style=3D"font-family:Arial;font-size:14px;m=
+argin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p>=
+<p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0=
+px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial=
+;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#=
+000000;"><span style=3D"font-size: 18px">So what will I do instead?</span><=
+/p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-botto=
+m:0px;font-weight:normal;color:#000000;"><br></p></div></td></tr><tr><td al=
+ign=3D"left" class=3D"gr-mltext-iafdvh gr-mltext-nsjkju" style=3D"font-size=
+:0px;padding:10px;word-break:break-word;"><div style=3D"font-family:Ubuntu,=
+ Helvetica, Arial, sans-serif;font-size:13px;line-height:1.4;text-align:lef=
+t;color:#000000;"><div style=3D"text-align: center;"><p style=3D"font-famil=
+y:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;=
+color:#000000;"><span style=3D"font-size: 22px">The new plan to get you the=
+ best</span></p></div><div style=3D"text-align: center;"><p style=3D"font-f=
+amily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:nor=
+mal;color:#000000;"><span style=3D"font-size: 22px">storytelling training o=
+n the internet</span></p></div></div></td></tr></tbody></table></td></tr></=
+tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></=
+tr></tbody></table></div><!--[if mso | IE]></td></tr></table><table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"" rol=
+e=3D"presentation" style=3D"width:600px;" width=3D"600" ><tr><td style=3D"l=
+ine-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><di=
+v style=3D"margin:0px auto;max-width:600px;"><table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"w=
+idth:100%;"><tbody><tr><td style=3D"border-bottom:0 none #000000;border-lef=
+t:0 none #000000;border-right:0 none #000000;border-top:0 none #000000;dire=
+ction:ltr;font-size:0px;padding:5px;text-align:center;"><!--[if mso | IE]><=
+table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+"><tr><td class=3D"" style=3D"vertical-align:top;width:590px;" ><![endif]--=
+><div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-size:0=
+px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;wi=
+dth:100%;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"=
+presentation" width=3D"100%"><tbody><tr><td style=3D"background-color:trans=
+parent;border-bottom:none;border-left:none;border-right:none;border-top:non=
+e;vertical-align:top;padding:0;"><table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" role=3D"presentation" width=3D"100%"><tbody><tr><td align=3D"=
+left" class=3D"gr-mltext-iafdvh gr-mltext-spdynv" style=3D"font-size:0px;pa=
+dding:10px;word-break:break-word;"><div style=3D"font-family:Ubuntu, Helvet=
+ica, Arial, sans-serif;font-size:13px;line-height:1.4;text-align:left;color=
+:#000000;"><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;marg=
+in-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-f=
+amily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:nor=
+mal;color:#000000;"><span style=3D"font-size: 18px">Enter hippy George.</sp=
+an></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-b=
+ottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-famil=
+y:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;=
+color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin=
+-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=
+=3D"font-size: 18px">The George that doesn't care about design. The George =
+that only cares about giving you the best information out there. Step by st=
+ep.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fon=
+t-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:=
+normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span =
+style=3D"font-size: 18px">And if anything is not clear?</span></p><p style=
+=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-=
+weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-si=
+ze:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"=
+><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin=
+-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18=
+px">I'll just give you a couple of bonuses that will ENSURE you get EVERYTH=
+ING and that you're able to execute EVERYTHING in the training at the highe=
+st level.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top=
+:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=
+=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-=
+weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-si=
+ze:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"=
+><span style=3D"font-size: 18px">Wanna hear what those bonuses will be?</sp=
+an></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-b=
+ottom:0px;font-weight:normal;color:#000000;"><br></p></div></td></tr><tr><t=
+d align=3D"left" class=3D"gr-mltext-iafdvh gr-mltext-uiigsp" style=3D"font-=
+size:0px;padding:10px;word-break:break-word;"><div style=3D"font-family:Ubu=
+ntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.4;text-align=
+:left;color:#000000;"><div style=3D"text-align: center;"><p style=3D"font-f=
+amily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:nor=
+mal;color:#000000;"><span style=3D"font-size: 22px">The bonuses you'll get =
+when you join the program</span></p></div></div></td></tr><tr><td align=3D"=
+left" class=3D"gr-mltext-iafdvh gr-mltext-ehufwa" style=3D"font-size:0px;pa=
+dding:10px;word-break:break-word;"><div style=3D"font-family:Ubuntu, Helvet=
+ica, Arial, sans-serif;font-size:13px;line-height:1.4;text-align:left;color=
+:#000000;"><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;marg=
+in-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-f=
+amily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:nor=
+mal;color:#000000;"><span style=3D"font-size: 18px"><u>Bonus #1: A live Q&a=
+mp;A.</u></span></p><p style=3D"font-family:Arial;font-size:14px;margin-top=
+:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=
+=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-=
+weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-si=
+ze:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"=
+><span style=3D"font-size: 18px">I'll give you some time to go through the =
+training and experiment with writing stories that sell yourself.</span></p>=
+<p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0=
+px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial=
+;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#=
+000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0p=
+x;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-=
+size: 18px">Then? We'll jump on a Q&amp;A call where you can ask me anythin=
+g and we'll also probably have time to go through some of your stories. LIV=
+E. That way?</span></p><p style=3D"font-family:Arial;font-size:14px;margin-=
+top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p sty=
+le=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fon=
+t-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-=
+size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000=
+;"><span style=3D"font-size: 18px">You'll NEVER get stuck.</span></p><p sty=
+le=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fon=
+t-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-=
+size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000=
+;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;marg=
+in-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-f=
+amily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:nor=
+mal;color:#000000;"><span style=3D"font-size: 18px"><u>Bonus #2: Breakdowns=
+</u></span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;=
+margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fo=
+nt-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight=
+:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14p=
+x;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span=
+ style=3D"font-size: 18px">I'll share with you as many story email breakdow=
+ns as I can. I'll take some of the best emails I've written...</span></p><p=
+ style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px=
+;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;f=
+ont-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#00=
+0000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;=
+margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-si=
+ze: 18px">And walk you through them. Step-by-step. Sharing my thinking proc=
+ess and the elements I've used. To make sure you understand EVERYTHING I do=
+ with story emails.</span></p><p style=3D"font-family:Arial;font-size:14px;=
+margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p=
+><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:=
+0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Aria=
+l;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:=
+#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0=
+px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font=
+-size: 18px"><u>Bonus #3: Live call with the Maestro</u></span></p><p style=
+=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-=
+weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-si=
+ze:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"=
+><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin=
+-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18=
+px">Ever heard the name &quot;Pedro Martins&quot;? I call him &quot;The Mae=
+stro&quot;.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-t=
+op:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p styl=
+e=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font=
+-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-s=
+ize:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;=
+"><span style=3D"font-size: 18px">This guy has been doing email storytellin=
+g for longer than I have been in marketing. And the most fun thing about hi=
+m?</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;ma=
+rgin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font=
+-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:n=
+ormal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;=
+margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span s=
+tyle=3D"font-size: 18px">He uses a VERY similar method for writing his stor=
+ies as I do and teach in the program. But he THINKS about email storytellin=
+g in a different way.</span></p><p style=3D"font-family:Arial;font-size:14p=
+x;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br><=
+/p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-botto=
+m:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Ar=
+ial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;colo=
+r:#000000;"><span style=3D"font-size: 18px">His expertise allowed him to se=
+ll products as high as $46,000 through emails. And he's worked with some of=
+ the biggest players in our industry. Think &quot;Tony Robbins&quot; level =
+people.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0=
+px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D=
+"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-wei=
+ght:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:=
+14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><s=
+pan style=3D"font-size: 18px">He also manages lists of as big as ONE MILLIO=
+N people.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top=
+:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p></div></t=
+d></tr><tr><td align=3D"left" class=3D"gr-mltext-iafdvh gr-mltext-bgttwe" s=
+tyle=3D"font-size:0px;padding:10px;word-break:break-word;"><div style=3D"fo=
+nt-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1=
+.4;text-align:left;color:#000000;"><div style=3D"text-align: center;"><p st=
+yle=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fo=
+nt-weight:normal;color:#000000;"><span style=3D"font-size: 22px">If after a=
+ll of those bonuses you're still struggling?</span></p></div></div></td></t=
+r><tr><td align=3D"left" class=3D"gr-mltext-iafdvh gr-mltext-khdwtu" style=
+=3D"font-size:0px;padding:10px;word-break:break-word;"><div style=3D"font-f=
+amily:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.4;t=
+ext-align:left;color:#000000;"><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></=
+p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom=
+:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px">I'l=
+l offer you even more.</span></p><p style=3D"font-family:Arial;font-size:14=
+px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br>=
+</p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bott=
+om:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:A=
+rial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;col=
+or:#000000;"><span style=3D"font-size: 18px">30 days of support with our BE=
+ST storytelling coach. This guy is writing stories as powerful as mine but =
+he's MUCH better at explaining the process than I am.</span></p><p style=3D=
+"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-wei=
+ght:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:=
+14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><b=
+r></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bo=
+ttom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px"=
+>So I'll offer you a month of group coaching with him. Here's how it's gonn=
+a work:</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0=
+px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D=
+"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-wei=
+ght:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:=
+14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><s=
+pan style=3D"font-size: 18px">You decide to get that option (it's paid)... =
+and we throw you into a small WhatsApp or Telegram group with the coach and=
+ 9 other people MAXIMUM.</span></p><p style=3D"font-family:Arial;font-size:=
+14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><b=
+r></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bo=
+ttom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family=
+:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;c=
+olor:#000000;"><span style=3D"font-size: 18px">You'll get access to (probab=
+ly) the brightest mind on X when it comes to storytelling that sells.</span=
+></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bot=
+tom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:=
+Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;co=
+lor:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-t=
+op:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"=
+font-size: 18px">And...</span></p><p style=3D"font-family:Arial;font-size:1=
+4px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br=
+></p></div></td></tr><tr><td align=3D"left" class=3D"gr-mltext-iafdvh gr-ml=
+text-ofltxd" style=3D"font-size:0px;padding:10px;word-break:break-word;"><d=
+iv style=3D"font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px=
+;line-height:1.4;text-align:left;color:#000000;"><div style=3D"text-align: =
+center;"><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin=
+-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 22=
+px">If that's still not enough?!</span></p></div></div></td></tr><tr><td al=
+ign=3D"left" class=3D"gr-mltext-iafdvh gr-mltext-vxlowi" style=3D"font-size=
+:0px;padding:10px;word-break:break-word;"><div style=3D"font-family:Ubuntu,=
+ Helvetica, Arial, sans-serif;font-size:13px;line-height:1.4;text-align:lef=
+t;color:#000000;"><p style=3D"font-family:Arial;font-size:14px;margin-top:0=
+px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D=
+"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-wei=
+ght:normal;color:#000000;"><span style=3D"font-size: 18px">We'll offer you =
+&quot;The Trickster's Toolbox&quot;.</span></p><p style=3D"font-family:Aria=
+l;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:=
+#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0=
+px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D=
+"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-wei=
+ght:normal;color:#000000;"><span style=3D"font-size: 18px">That's a toolbox=
+ of 10 EVERGREEN email frameworks. And it will allow you to write email sto=
+ries that sell ON DEMAND.</span></p><p style=3D"font-family:Arial;font-size=
+:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><=
+br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-b=
+ottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-famil=
+y:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;=
+color:#000000;"><span style=3D"font-size: 18px">You open the file -- pick a=
+ framework -- and write. It's that easy and it'll save you TONS of time.</s=
+pan></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-=
+bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-fami=
+ly:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal=
+;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margi=
+n-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=
+=3D"font-size: 18px">The guy who created this product is the coach I descri=
+bed above. Each framework of his is GOLD.</span></p><p style=3D"font-family=
+:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;c=
+olor:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-=
+top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p sty=
+le=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fon=
+t-weight:normal;color:#000000;"><span style=3D"font-size: 18px">More about =
+that later.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-t=
+op:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p styl=
+e=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font=
+-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-s=
+ize:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;=
+"><span style=3D"font-size: 18px">And...</span></p><p style=3D"font-family:=
+Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;co=
+lor:#000000;"><br></p></div></td></tr><tr><td align=3D"left" class=3D"gr-ml=
+text-iafdvh gr-mltext-apxxcx" style=3D"font-size:0px;padding:10px;word-brea=
+k:break-word;"><div style=3D"font-family:Ubuntu, Helvetica, Arial, sans-ser=
+if;font-size:13px;line-height:1.4;text-align:left;color:#000000;"><div styl=
+e=3D"text-align: center;"><p style=3D"font-family:Arial;font-size:14px;marg=
+in-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=
+=3D"font-size: 22px">If that's still not enough?!</span></p></div></div></t=
+d></tr><tr><td align=3D"left" class=3D"gr-mltext-iafdvh gr-mltext-xkeprr" s=
+tyle=3D"font-size:0px;padding:10px;word-break:break-word;"><div style=3D"fo=
+nt-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1=
+.4;text-align:left;color:#000000;"><p style=3D"font-family:Arial;font-size:=
+14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><b=
+r></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bo=
+ttom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px"=
+>You can also get the coaching package.</span></p><p style=3D"font-family:A=
+rial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;col=
+or:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-to=
+p:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=
+=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-=
+weight:normal;color:#000000;"><span style=3D"font-size: 18px">4 one-on-one =
+calls with our coach where his full attention is on your stories.</span></p=
+><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:=
+0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Aria=
+l;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:=
+#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0=
+px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font=
+-size: 18px">You'll be able to run your stories through him and get his imm=
+ediate feedback and even write a story with him live.</span></p><p style=3D=
+"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-wei=
+ght:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:=
+14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><b=
+r></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bo=
+ttom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px"=
+>And...</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0=
+px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p></div></td>=
+</tr><tr><td align=3D"left" class=3D"gr-mltext-iafdvh gr-mltext-blelav" sty=
+le=3D"font-size:0px;padding:10px;word-break:break-word;"><div style=3D"font=
+-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.4=
+;text-align:left;color:#000000;"><div style=3D"text-align: center;"><p styl=
+e=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font=
+-weight:normal;color:#000000;"><span style=3D"font-size: 22px">If you STILL=
+ can't write story emails that sell?</span></p></div></div></td></tr><tr><t=
+d align=3D"left" class=3D"gr-mltext-iafdvh gr-mltext-gqlmla" style=3D"font-=
+size:0px;padding:10px;word-break:break-word;"><div style=3D"font-family:Ubu=
+ntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.4;text-align=
+:left;color:#000000;"><p style=3D"font-family:Arial;font-size:14px;margin-t=
+op:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p styl=
+e=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font=
+-weight:normal;color:#000000;"><span style=3D"font-size: 18px">I'm sorry.</=
+span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin=
+-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-fam=
+ily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:norma=
+l;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;marg=
+in-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=
+=3D"font-size: 18px">I've done everything in my power to make sure that you=
+ will be able to write stories as easily as it is to eat chips.</span></p><=
+p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0p=
+x;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;=
+font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#0=
+00000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px=
+;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-s=
+ize: 18px">Hell...</span></p><p style=3D"font-family:Arial;font-size:14px;m=
+argin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p>=
+<p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0=
+px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial=
+;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#=
+000000;"><span style=3D"font-size: 18px">I've had more than 500 people go t=
+hrough the mini-training and they all were able to write INCREDIBLE stories=
+.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;mar=
+gin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-=
+family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:no=
+rmal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;m=
+argin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span st=
+yle=3D"font-size: 18px">If after the FULL training you still can't? You're =
+just a lazy ass who likes to complain instead of taking action. Sorry. That=
+'s the best I can do for you.</span></p><p style=3D"font-family:Arial;font-=
+size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000=
+;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;marg=
+in-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-f=
+amily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:nor=
+mal;color:#000000;"><span style=3D"font-size: 18px">Now you might be asking=
+...</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><br></p></div></td></tr=
+><tr><td align=3D"left" class=3D"gr-mltext-iafdvh gr-mltext-vuxifo" style=
+=3D"font-size:0px;padding:10px;word-break:break-word;"><div style=3D"font-f=
+amily:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.4;t=
+ext-align:left;color:#000000;"><div style=3D"text-align: center;"><p style=
+=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-=
+weight:normal;color:#000000;"><span style=3D"font-size: 22px">&quot;But Geo=
+rge where's the AHA moment in this email???&quot;</span></p></div></div></t=
+d></tr><tr><td align=3D"left" class=3D"gr-mltext-iafdvh gr-mltext-swanti" s=
+tyle=3D"font-size:0px;padding:10px;word-break:break-word;"><div style=3D"fo=
+nt-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1=
+.4;text-align:left;color:#000000;"><p style=3D"font-family:Arial;font-size:=
+14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><b=
+r></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bo=
+ttom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px"=
+>You're right. I keep saying that there should be an &quot;AHA moment&quot;=
+ in every single email.</span></p><p style=3D"font-family:Arial;font-size:1=
+4px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br=
+></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bot=
+tom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:=
+Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;co=
+lor:#000000;"><span style=3D"font-size: 18px">And there is one here. There =
+are actually two. You just don't know about it...</span></p><p style=3D"fon=
+t-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:=
+normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></=
+p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom=
+:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px">Yet=
+ :)</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fon=
+t-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:=
+normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span =
+style=3D"font-size: 18px">So let me share two AHA moments that you got from=
+ this email:</span></p><p style=3D"font-family:Arial;font-size:14px;margin-=
+top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p sty=
+le=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fon=
+t-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-=
+size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000=
+;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;marg=
+in-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: =
+18px"><u>AHA moment #1: Frame control.</u></span></p><p style=3D"font-famil=
+y:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;=
+color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin=
+-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p st=
+yle=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fo=
+nt-weight:normal;color:#000000;"><span style=3D"font-size: 18px">Look. A lo=
+t of marketers get a lot of unsatisfied customers and some even get a ton o=
+f refund requests and even chargebacks.</span></p><p style=3D"font-family:A=
+rial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;col=
+or:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-to=
+p:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=
+=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-=
+weight:normal;color:#000000;"><span style=3D"font-size: 18px">Why?</span></=
+p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom=
+:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Ari=
+al;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color=
+:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:=
+0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"fon=
+t-size: 18px">Because the customer didn't get exactly what he or she expect=
+ed.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fon=
+t-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:=
+normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span =
+style=3D"font-size: 18px">That's why &quot;framing&quot; the onboarding is =
+important. Notice how I did that in the story I wrote above?</span></p><p s=
+tyle=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;f=
+ont-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;fon=
+t-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#0000=
+00;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;ma=
+rgin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size=
+: 18px">I primed you to understand that the design on the slides is not gon=
+na be the best. So you're not gonna get disappointed. Because you're expect=
+ing that.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top=
+:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=
+=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-=
+weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-si=
+ze:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"=
+><span style=3D"font-size: 18px">Understand?</span></p><p style=3D"font-fam=
+ily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:norma=
+l;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;marg=
+in-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p =
+style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;=
+font-weight:normal;color:#000000;"><strong><span style=3D"font-size: 18px">=
+I frame control'd you.</span></strong><span style=3D"font-size: 18px">&nbsp=
+;How does it feel? LOL.</span></p><p style=3D"font-family:Arial;font-size:1=
+4px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br=
+></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bot=
+tom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:=
+Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;co=
+lor:#000000;"><span style=3D"font-size: 18px">There's more.</span></p><p st=
+yle=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fo=
+nt-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font=
+-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#00000=
+0;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;mar=
+gin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-=
+family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:no=
+rmal;color:#000000;"><span style=3D"font-size: 18px"><u>AHA moment #2: Futu=
+re pacing.</u></span></p><p style=3D"font-family:Arial;font-size:14px;margi=
+n-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p s=
+tyle=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;f=
+ont-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;fon=
+t-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#0000=
+00;"><span style=3D"font-size: 18px">Notice how I told you about all the di=
+fferent options I'll offer you?</span></p><p style=3D"font-family:Arial;fon=
+t-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#0000=
+00;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;ma=
+rgin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font=
+-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:n=
+ormal;color:#000000;"><span style=3D"font-size: 18px">That's me preparing y=
+ou to be ready. There will be more than one offer for you to pick from.</sp=
+an></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-b=
+ottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-famil=
+y:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;=
+color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin=
+-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=
+=3D"font-size: 18px">I also handled your objection. &quot;But won't if I st=
+ill won't be able to write good stories that sell?&quot;</span></p><p style=
+=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-=
+weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-si=
+ze:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"=
+><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin=
+-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18=
+px">And now...</span></p><p style=3D"font-family:Arial;font-size:14px;margi=
+n-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p s=
+tyle=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;f=
+ont-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;fon=
+t-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#0000=
+00;"><span style=3D"font-size: 18px">Some of you have already made up your =
+mind. &quot;I'll just take the course and that's it.&quot;</span></p><p sty=
+le=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fon=
+t-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-=
+size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000=
+;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;marg=
+in-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: =
+18px">Which is good. The course is all you need. But others are now thinkin=
+g...</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;=
+margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fo=
+nt-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight=
+:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14p=
+x;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span=
+ style=3D"font-size: 18px">&quot;Oh maybe I should get one of the other thi=
+ngs they're gonna offer. Probably depends on the price. How expensive is it=
+ gonna be? Because I'd love support and frameworks.&quot;</span></p><p styl=
+e=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font=
+-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-s=
+ize:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;=
+"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margi=
+n-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 1=
+8px">Right where I want you.</span></p><p style=3D"font-family:Arial;font-s=
+ize:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;=
+"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margi=
+n-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-fa=
+mily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:norm=
+al;color:#000000;"><span style=3D"font-size: 18px">Thinking about my produc=
+t.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;ma=
+rgin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font=
+-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:n=
+ormal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;=
+margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p=
+><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:=
+0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Aria=
+l;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:=
+#000000;"><span style=3D"font-size: 18px">P.S.</span></p><p style=3D"font-f=
+amily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:nor=
+mal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;ma=
+rgin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><=
+p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0p=
+x;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px">I've u=
+sed the &quot;direct AHA moment&quot; approach here. I TOLD you what the &q=
+uot;AHA moment&quot; was. I explained it.</span></p><p style=3D"font-family=
+:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;c=
+olor:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-=
+top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p sty=
+le=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fon=
+t-weight:normal;color:#000000;"><span style=3D"font-size: 18px">That is one=
+ of several ways you can use the &quot;AHA moment&quot; to connect it to th=
+e story and your offer.</span></p><p style=3D"font-family:Arial;font-size:1=
+4px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br=
+></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bot=
+tom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:=
+Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;co=
+lor:#000000;"><span style=3D"font-size: 18px">I'll go more in-depth on how =
+to do this and show you the other ways inside the training.</span></p><p st=
+yle=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fo=
+nt-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font=
+-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#00000=
+0;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;mar=
+gin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-=
+family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:no=
+rmal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;m=
+argin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span st=
+yle=3D"font-size: 18px">P.P.S.</span></p><p style=3D"font-family:Arial;font=
+-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#00000=
+0;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;mar=
+gin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-=
+family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:no=
+rmal;color:#000000;"><span style=3D"font-size: 18px">Now I handled your big=
+gest objections and made sure you'll come on to the program in the RIGHT MI=
+NDSET.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0p=
+x;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"=
+font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weig=
+ht:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:1=
+4px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><sp=
+an style=3D"font-size: 18px">This is what good storytelling can do.</span><=
+/p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-botto=
+m:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Ar=
+ial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;colo=
+r:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top=
+:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"fo=
+nt-size: 18px">And you didn't even know that's what I was doing as you were=
+ reading. Powerful stuff isn't it?</span></p><p style=3D"font-family:Arial;=
+font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#0=
+00000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px=
+;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"f=
+ont-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weigh=
+t:normal;color:#000000;"><span style=3D"font-size: 18px">You'll soon harnes=
+s that power.</span></p><p style=3D"font-family:Arial;font-size:14px;margin=
+-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p st=
+yle=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fo=
+nt-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font=
+-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#00000=
+0;"><span style=3D"font-size: 18px">Hope it'll all be ready for you to dive=
+ into by the end of this week. Might take a bit longer but we're getting cl=
+ose :)</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0p=
+x;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"=
+font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weig=
+ht:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:1=
+4px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><sp=
+an style=3D"font-size: 18px">Hope you're as excited as I am!</span></p></di=
+v></td></tr></tbody></table></td></tr></tbody></table></div><!--[if mso | I=
+E]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if ms=
+o | IE]></td></tr></table><table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"" role=3D"presentation" style=3D"width:60=
+0px;" width=3D"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-lin=
+e-height-rule:exactly;"><![endif]--><div style=3D"margin:0px auto;max-width=
+:600px;"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;"><tbody><tr><td style=3D"=
+border-bottom:0 none #000000;border-left:0 none #000000;border-right:0 none=
+ #000000;border-top:0 none #000000;direction:ltr;font-size:0px;padding:5px;=
+text-align:center;"><!--[if mso | IE]><table role=3D"presentation" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vert=
+ical-align:top;width:590px;" ><![endif]--><div class=3D"mj-column-per-100 m=
+j-outlook-group-fix" style=3D"font-size:0px;text-align:left;direction:ltr;d=
+isplay:inline-block;vertical-align:top;width:100%;"><table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" role=3D"presentation" width=3D"100%"><tbod=
+y><tr><td style=3D"background-color:transparent;border-bottom:none;border-l=
+eft:none;border-right:none;border-top:none;vertical-align:top;padding:0;"><=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation=
+" width=3D"100%"><tbody><tr><td align=3D"center" class=3D"gr-footer-cuetim =
+gr-footer-sgpjxy" style=3D"font-size:0px;padding:10px;word-break:break-word=
+;"><div style=3D"font-family:Arial;font-size:10px;font-style:normal;line-he=
+ight:1;text-align:center;text-decoration:none;color:#000000;"><div>You may =
+<a href=3D"https://app.getresponse.com/unsubscribe.html?x=3Da62b&m=3DB0EosF=
+&mc=3DCX&s=3DBQMFueT&u=3DMSfRZ&z=3DEFhLBoK&pt=3Dunsubscribe" target=3D"_bla=
+nk">unsubscribe</a> or <a href=3D"https://app.getresponse.com/change_detail=
+s.html?x=3Da62b&m=3DB0EosF&s=3DBQMFueT&u=3DMSfRZ&z=3DEMvtFG2&pt=3Dchange_de=
+tails" target=3D"_blank">change your contact details</a> at any time.</div>=
+</div></td></tr></tbody></table></td></tr></tbody></table></div><!--[if mso=
+ | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[i=
+f mso | IE]></td></tr></table><![endif]--><table align=3D"center" style=3D"=
+font-family: 'Roboto', Helvetica, sans-serif; font-weight: 400; letter-spac=
+ing: .018em; text-align: center; font-size: 10px;"><tr><td style=3D"padding=
+-bottom: 20px"></td></tr></table></div></body></html><img src=3D"https://ap=
+p.getresponse.com/open.html?x=3Da62b&m=3DB0EosF&mc=3DCX&s=3DBQMFueT&u=3DMSf=
+RZ&z=3DEB0rBdY&" width=3D"0" height=3D"0" border=3D"0" alt=3D"" role=3D"pre=
+sentation" />=
+
+--39737a24c994553a6f12ac98cfcb0dec--
