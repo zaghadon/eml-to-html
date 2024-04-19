@@ -1,19 +1,19 @@
 Return-Path: <bounce-133599302@bounce.gr-mail2.com>
-Delivered-To: nzaghad@odiyaos.com
+Delivered-To: test@test.com
 Received: from vs-silk.seodns.one
 	by vs-silk.seodns.one with LMTP
 	id 8JEYJEuUw2WAOh8A0Q/Arg
 	(envelope-from <bounce-133599302@bounce.gr-mail2.com>)
-	for <nzaghad@odiyaos.com>; Wed, 07 Feb 2024 18:31:39 +0400
+	for <test@test.com>; Wed, 07 Feb 2024 18:31:39 +0400
 Return-path: <bounce-133599302@bounce.gr-mail2.com>
-Envelope-to: nzaghad@odiyaos.com
+Envelope-to: test@test.com
 Delivery-date: Wed, 07 Feb 2024 18:31:39 +0400
 Received: from mta-3.omega.gr-mail2.com ([104.160.64.84]:13250)
 	by vs-silk.seodns.one with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
 	(Exim 4.96.2)
 	(envelope-from <bounce-133599302@bounce.gr-mail2.com>)
 	id 1rXixb-008aI4-1r
-	for nzaghad@odiyaos.com;
+	for test@test.com;
 	Wed, 07 Feb 2024 18:31:38 +0400
 Content-Type: multipart/alternative; boundary=39737a24c994553a6f12ac98cfcb0dec
 Date: Wed, 07 Feb 2024 14:30:53 +0000
@@ -25,9 +25,9 @@ List-Unsubscribe-Post: List-Unsubscribe=One-Click
 Message-ID: <getresponse.xserial.s56bSLXZO8Yb3b9F61YPfsuXzu3XqEpwpipsOM3hLBMSwileo2RAso6oYF9/rQBzZQhG6eGgQbPc7Wca7jfgzftLvU3eUZtzdh1j6rbUEEBi+ZjcpLZedUOCoow6p2d8c175AWxcd8rfYBOvbNTXL2ngzg==@gr-mail2.com>
 MIME-Version: 1.0
 Reply-To: george@grammarhippy.com
-Require-Recipient-Valid-Since: nzaghad@odiyaos.com; Fri, 10 Mar 2023 15:18:53 +0000
+Require-Recipient-Valid-Since: test@test.com; Fri, 10 Mar 2023 15:18:53 +0000
 Subject: I just fired myself
-To: "David" <nzaghad@odiyaos.com>
+To: "David" <test@test.com>
 X-Complaints-To: abuse@gr-mail2.com
 X-CSA-Complaints: csa-complaints@eco.de
 X-Spam-Status: No, score=0.1
@@ -40,7 +40,7 @@ X-Ham-Report: Spam detection software, running on the system "vs-silk.seodns.one
  root\@localhost for details.
  Content preview:  Frame control & future pacing. Take notes.‌ ‌ ‌ ‌
    ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-    ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ � [...] 
+    ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ � [...] 
  Content analysis details:   (0.1 points, 5.0 required)
   pts rule name              description
  ---- ---------------------- --------------------------------------------------
