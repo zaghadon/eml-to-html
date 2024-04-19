@@ -1,0 +1,759 @@
+Return-Path: <bounce-133599302@bounce.gr-mail2.com>
+Delivered-To: test@test.com
+Received: from vs-silk.seodns.one
+	by vs-silk.seodns.one with LMTP
+	id oCvtMlDP1GV0phAA0Q/Arg
+	(envelope-from <bounce-133599302@bounce.gr-mail2.com>)
+	for <test@test.com>; Tue, 20 Feb 2024 20:12:00 +0400
+Return-path: <bounce-133599302@bounce.gr-mail2.com>
+Envelope-to: test@test.com
+Delivery-date: Tue, 20 Feb 2024 20:12:00 +0400
+Received: from mta-3.omega.gr-mail2.com ([104.160.64.84]:2182)
+	by vs-silk.seodns.one with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.96.2)
+	(envelope-from <bounce-133599302@bounce.gr-mail2.com>)
+	id 1rcSis-004a3t-0d
+	for test@test.com;
+	Tue, 20 Feb 2024 20:12:00 +0400
+Content-Type: multipart/alternative; boundary=6ba166283a3a0f43a5a67067a24f12f3
+Date: Tue, 20 Feb 2024 16:11:16 +0000
+DKIM-Signature: a=rsa-sha256; b=mIQv5dcrjY6Vpv+NVwjDexOitoAI5mXyiM6N3RZJQr5d+lI463wrIpwFv9NRapaucgMa0cpvCXd6wwKKdbRPtUzeGxm8B4hHo+WAeyvHaa7b5AjqGRtH1zL029+iI2QGwU6IWV7uU/VOG/fQgFemJ/durwG3wIOA8CfC8U81TPk=; bh=zFmhHJqqgC44ATWZA6XWU+fNIU6ZXEOJ9Kx5JtRSTjw=; c=simple/simple; d=grammarhippy.com; h=Sender:From:From:To:To:CC:Subject:Subject:Message-ID:Message-ID:Form-Sub:List-Unsubscribe:List-Unsubscribe:List-Unsubscribe-Post:List-Unsubscribe-Post:X-CSA-Complaints:X-CSA-Complaints; s=c4159c58; t=1708445476; v=1; x=1708531876;
+DKIM-Signature: a=rsa-sha256; b=J9Y7r7MwWwwv9TQNbyWeFOXAUB2iNra2yOpbnb9Wu57oLedI0XVFKXamGbwk+6HPIWkXW72t+IIc1+VMSjFswkjucbC2eyqWCJKey1n8KgaWKn+/TZi5JLPnNCsIw0Gr1qPk+ONgQ+DbGiGUlmaXcFpkTYU8aWNe5HfR0aVc3Xw=; bh=zFmhHJqqgC44ATWZA6XWU+fNIU6ZXEOJ9Kx5JtRSTjw=; c=simple/simple; d=gr-mail2.com; h=Sender:From:From:To:To:CC:Subject:Subject:Message-ID:Message-ID:Form-Sub:List-Unsubscribe:List-Unsubscribe:List-Unsubscribe-Post:List-Unsubscribe-Post:X-CSA-Complaints:X-CSA-Complaints; s=k1024e; t=1708445476; v=1; x=1708531876;
+From: "Sender Name" <testsender@test.com>
+List-Unsubscribe: <https://app.getresponse.com/one_click_unsubscribe.html?x=a62b&m=B0CUgA&s=BQMFueT&u=MSfRZ&z=ESsKcb&>, <mailto:listunsubscribe@gr-mail2.com?subject=getresponse.xserial.s56bSLXZO8Yb3b9F61YPfsuXzu3XqEpwpipsOM3hLBMSwinq6%2Fw7C6DmZISfFbCEt9%2BVAzdAr0r2z2gFcIiUMAnih7evcuqSRkt7VVrtDPvJoS%2BLgWBWnhubr2D3RD6Dy7TRO88tnk29FtlotxYZlTsIjg%3D%3D>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Message-ID: <getresponse.xserial.s56bSLXZO8Yb3b9F61YPfsuXzu3XqEpwpipsOM3hLBMSwinq6/w7C6DmZISfFbCEt9+VAzdAr0r2z2gFcIiUMAnih7evcuqSRkt7VVrtDPvJoS+LgWBWnhubr2D3RD6Dy7TRO88tnk29FtlotxYZlTsIjg==@gr-mail2.com>
+MIME-Version: 1.0
+Reply-To: testsender@test.com
+Require-Recipient-Valid-Since: test@test.com; Fri, 10 Mar 2023 15:18:53 +0000
+Subject: TL:DR is a disease
+To: "David" <test@test.com>
+X-Complaints-To: abuse@gr-mail2.com
+X-CSA-Complaints: csa-complaints@eco.de
+X-Spam-Status: No, score=0.1
+X-Spam-Score: 1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "vs-silk.seodns.one",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  You use TL:DR all the time and that's why you fail yourself
+    and others‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+    ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ � [...] 
+ Content analysis details:   (0.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: gr-cdn.com]
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+  0.0 T_KAM_HTML_FONT_INVALID Test for Invalidly Named or Formatted
+                             Colors in HTML
+X-Spam-Flag: NO
+
+
+--6ba166283a3a0f43a5a67067a24f12f3
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+
+You use TL:DR all the time and that's why you fail yourself and others=E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=20=0A=0A=0AYou will n=
+ever ever again explain anything in short after you read this email.=0A=0A=
+=0A=0A=0AWatch.=0A=0A=0A=0AThe day I refused to tell my wife what she wante=
+d to hear=0A=0A=0A=0AThat day was yesterday.=0A=0A=0A=0A=0AWe were walking =
+on the beautiful beach in Punta Cana when my wife looks at me and goes...=
+=0A=0A=0A=0A=0AWife: You look super relaxed.=0AHow did you let go of everyt=
+hing that was bothering you yesterday?=0A=0A=0A=0A=0AMe: I watched an incre=
+dible course.=0AIt allowed me to let go of all the crap in my head and just=
+ relax.=0A=0A=0A=0A=0AWife: I want that too! Tell me what the gist of the c=
+ourse was.=0A=0A=0A=0A=0AMe:NO. Watch the course.=0A=0A=0A=0A=0AShe obvious=
+ly didn't like that answer.=0ABut I insisted that I would not tell her what=
+ the course was all about.=0A=0A=0A=0A=0AWhy?=0A=0A=0A=0AFor the same reaso=
+n that hard-value doesn't sell=0A=0A=0A=0AI'll explain.=0A=0A=0A=0A=0AEddy =
+Quan tweeted this yesterday:=0A=0A=0A=0A=0A[https://us-ms.gr-cdn.com/getres=
+ponse-MSfRZ/photos/a619c149-661e-40a2-86f2-bd1ec0de385a.png]=0A=0A=0AI obvi=
+ously retweeted.=0A=0A=0A=0A=0AWhy?=0A=0A=0A=0A=0ABecause Eddy is right.=0A=
+=0A=0A=0A=0AHard value doesn't sell. You can write all the best "How to" po=
+sts or tweets or emails or WHATEVER.=0A=0A=0A=0A=0APeople will read those. =
+Love it. Say you're the best. Thank you. And leave without opening their wa=
+llet.=0A=0A=0A=0A=0AHurts.=0A=0A=0A=0A=0AAnd is unfair.=0A=0A=0A=0A=0AI kno=
+w.=0A=0A=0A=0A=0ABut that's life. And that's exactly how it works. EXACTLY.=
+ And that's exactly why I didn't tell my wife what was in the course...=0A=
+=0A=0A=0ABecause it's not the information that does the transformation=0A=
+=0A=0A=0A=0A=0AImagine this.=0A=0A=0A=0A=0AI tell my wife what the gist of =
+the course was. It was three simple questions that you can ask yourself to =
+relax your mind.=0A=0A=0A=0A=0AI share those three questions with her.=0A=
+=0A=0A=0A=0AHer mind goes: "ah cool thanks -- I already know those because =
+I've heard about them somewhere on Instagram. Thanks!"=0A=0A=0A=0A=0AAnd...=
+=0A=0A=0A=0A=0AThat's it.=0A=0A=0A=0A=0AShe will never do the thing. She wi=
+ll never take a piece of paper and write down three answers to those three =
+questions.=0A=0A=0A=0A=0ABUT WHY?=0A=0A=0A=0A=0AShe wanted what I had. I go=
+t what I had by doing this exercise. She got that exercise. And she won't f=
+ollow through.=0A=0A=0A=0A=0AWHAT THE FK IS THIS?=0A=0A=0A=0A=0AWeird ah?=
+=0AI know.=0A=0A=0A=0A=0ANow let me explain how this whole thing works.=0AR=
+eady?=0A=0A=0A=0AIt's the wrappingthat matters.=0ANot the essence.=0AYes. Y=
+our gurus were wrong.=0A=0A=0A=0AIt's not the three questions that made me =
+relax my mind.=0A=0A=0A=0A=0AIt's the two-hour audio file that I listened t=
+o where the creator of the course goes on and on telling stories that gave =
+me AHA moments.=0A=0A=0A=0A=0A=E2=80=A2 Changed my perspective.=0A=0A=0A=E2=
+=80=A2 Showed me my "problem" from a different angle.=0A=0A=0A=E2=80=A2 All=
+owed my brain to accept a new solution.=0A=0A=0A=0A=0AUnderstand?=0A=0A=0A=
+=0A=0AThe three questions are just something to give to the logical part of=
+ the brain that keeps complaining...=0A=0A=0A=0A=0A"But where's the juice? =
+It's just stories..."=0A=0A=0A=0A=0AThe three questions are just the "SHUT =
+UP LOGICAL BRAIN. You're useless here so here's a candy for you to relax. N=
+OW SHUT UP!"=0A=0A=0A=0A=0AThe three questions are the "essence" that every=
+one is always looking for because they think that's where the "secret" lies=
+.=0A=0A=0A=0A=0AThey're wrong.=0A=0A=0A=0A=0ATheir logical brain plays a ga=
+me on them.=0A=0A=0A=0A=0AUnderstand?=0A=0A=0A=0A=0AThis is why I didn't wa=
+nt to share the three questions with my wife. She wouldn't do the exercise.=
+ And even if she did? It'd do nothing for her.=0A=0A=0A=0A=0AAnd now you kn=
+ow...=0A=0A=0A=0AWhy my list SELLS SO DAMN MUCH=0A=0A=0A=0AAnd it doesn't o=
+nly sell so damn much.=0AThere's more.=0A=0A=0A=0A=0ABecause most of the li=
+sts that sell "a lot" are very aggressive in their selling.=0A=0A=0A=0A=0AT=
+imers. Last spots left. Lies. Exaggeration.=0A=0A=0A=0A=0ABut I do none of =
+that and still...=0A=0A=0A=E2=80=A2 A huge chuck of my list buys from me=0A=
+=E2=80=A2 I never EVER got a refund request=0A=E2=80=A2 My clients are THAT=
+ happy=0A=0A=0A=0A=0ANow you know why.=0A=0A=0A=0A=0A=0A=0AP.S.=0A=0A=0A=0A=
+=0AYou'll soon be able to do this with your list too.=0AI'm working hard on=
+ finishing the course.=0A=0A=0A=0A=0A=0A=0AP.P.S=0A=0A=0A=0A=0ANo. I won't =
+share with you the "relaxation" course I mentioned in this email. But I wil=
+l share it with you AFTER I do the storytelling launch. So don't ask. I won=
+'t respond. Sorry.=0A=0A=0A=0A=0AOh.=0A=0A=0A=0A=0AMaybe I should share tha=
+t relaxation course only with those who buy my email storytelling course?=
+=0A=0A=0A=0A=0AHeh :)=0A=0A=0A=0AYou may unsubscribe [https://app.getrespon=
+se.com/unsubscribe.html?x=3Da62b&m=3DB0CUgA&mc=3DCX&s=3DBQMFueT&u=3DMSfRZ&z=
+=3DEEwqFzZ&pt=3Dunsubscribe] or change your contact details [https://app.ge=
+tresponse.com/change_details.html?x=3Da62b&m=3DB0CUgA&s=3DBQMFueT&u=3DMSfRZ=
+&z=3DEEsN9OL&pt=3Dchange_details] at any time.=0A=
+
+--6ba166283a3a0f43a5a67067a24f12f3
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<!doctype html><html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:=
+schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:offi=
+ce"><head><title></title><!--[if !mso]><!--><meta http-equiv=3D"X-UA-Compat=
+ible" content=3D"IE=3Dedge"><!--<![endif]--><meta http-equiv=3D"Content-Typ=
+e" content=3D"text/html; charset=3DUTF-8"><meta name=3D"viewport" content=
+=3D"width=3Ddevice-width,initial-scale=3D1"><style type=3D"text/css">#outlo=
+ok a { padding:0; }=0A      body { margin:0;padding:0;-webkit-text-size-adj=
+ust:100%;-ms-text-size-adjust:100%; }=0A      table, td { border-collapse:c=
+ollapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }=0A      img { border:0=
+;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interp=
+olation-mode:bicubic; }=0A      p { display:block;margin:13px 0; }</style><=
+!--[if mso]>=0A    <noscript>=0A    <xml>=0A    <o:OfficeDocumentSettings>=
+=0A      <o:AllowPNG/>=0A      <o:PixelsPerInch>96</o:PixelsPerInch>=0A    =
+</o:OfficeDocumentSettings>=0A    </xml>=0A    </noscript>=0A    <![endif]-=
+-><!--[if lte mso 11]>=0A    <style type=3D"text/css">=0A      .mj-outlook-=
+group-fix { width:100% !important; }=0A    </style>=0A    <![endif]--><styl=
+e type=3D"text/css">@media only screen and (min-width:480px) {=0A        .m=
+j-column-per-100 { width:100% !important; max-width: 100%; }=0A      }</sty=
+le><style media=3D"screen and (min-width:480px)">.moz-text-html .mj-column-=
+per-100 { width:100% !important; max-width: 100%; }</style><style type=3D"t=
+ext/css">@media only screen and (max-width:479px) {=0A      table.mj-full-w=
+idth-mobile { width: 100% !important; }=0A      td.mj-full-width-mobile { w=
+idth: auto !important; }=0A    }</style><style type=3D"text/css">@media (ma=
+x-width: 479px) {=0D=0A.hide-on-mobile {=0D=0Adisplay: none !important;=0D=
+=0A}=0D=0A}.gr-mltext-jkroei a,=0D=0A.gr-mltext-jkroei a:visited {=0D=0Atex=
+t-decoration: none;=0D=0A}.gr-mltext-qfxxsn a,=0D=0A.gr-mltext-qfxxsn a:vis=
+ited {=0D=0Atext-decoration: none;=0D=0A}.gr-mltext-tafims a,=0D=0A.gr-mlte=
+xt-tafims a:visited {=0D=0Atext-decoration: none;=0D=0A}.gr-mltext-yncyys a=
+,=0D=0A.gr-mltext-yncyys a:visited {=0D=0Atext-decoration: none;=0D=0A}.gr-=
+mltext-mqbxip a,=0D=0A.gr-mltext-mqbxip a:visited {=0D=0Atext-decoration: n=
+one;=0D=0A}.gr-mlimage-yfknxo img {=0D=0Abox-sizing: border-box;=0D=0A}=0D=
+=0A@media (min-width: 480px) {=0D=0A.gr-mlimage-phvcoq {=0D=0Aheight: 387px=
+ !important;=0D=0A}=0D=0A}.gr-mltext-isvybv a,=0D=0A.gr-mltext-isvybv a:vis=
+ited {=0D=0Atext-decoration: none;=0D=0A}.gr-mltext-ffpmjd a,=0D=0A.gr-mlte=
+xt-ffpmjd a:visited {=0D=0Atext-decoration: none;=0D=0A}.gr-mltext-hkeudj a=
+,=0D=0A.gr-mltext-hkeudj a:visited {=0D=0Atext-decoration: none;=0D=0A}.gr-=
+mltext-qwokhq a,=0D=0A.gr-mltext-qwokhq a:visited {=0D=0Atext-decoration: n=
+one;=0D=0A}.gr-mltext-watjds a,=0D=0A.gr-mltext-watjds a:visited {=0D=0Atex=
+t-decoration: none;=0D=0A}.gr-mltext-yolqbn a,=0D=0A.gr-mltext-yolqbn a:vis=
+ited {=0D=0Atext-decoration: none;=0D=0A}.gr-mltext-xfqxhk a,=0D=0A.gr-mlte=
+xt-xfqxhk a:visited {=0D=0Atext-decoration: none;=0D=0A}.gr-footer-ukdbfw a=
+,=0D=0A.gr-footer-ukdbfw a:visited {=0D=0Acolor: #00BAFF;=0D=0Atext-decorat=
+ion: underline;=0D=0A}</style></head><body style=3D"word-spacing:normal;bac=
+kground-color:#FFFFFF;"><div style=3D"display:none;font-size:1px;color:#fff=
+fff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;=
+">You use TL:DR all the time and that's why you fail yourself and others<di=
+v style=3D"max-height:0; overflow:hidden; mso-hide:all;" aria-hidden=3D"tru=
+e">&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbs=
+p;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</div></div><div style=3D"background-co=
+lor:#FFFFFF;">  <!--[if mso | IE]><table align=3D"center" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"" role=3D"presentation" style=3D"w=
+idth:600px;" width=3D"600" ><tr><td style=3D"line-height:0px;font-size:0px;=
+mso-line-height-rule:exactly;"><![endif]--><div style=3D"margin:0px auto;ma=
+x-width:600px;"><table align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" role=3D"presentation" style=3D"width:100%;"><tbody><tr><td st=
+yle=3D"border-bottom:0 none #000000;border-left:0 none #000000;border-right=
+:0 none #000000;border-top:0 none #000000;direction:ltr;font-size:0px;paddi=
+ng:5px;text-align:center;"><!--[if mso | IE]><table role=3D"presentation" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D=
+"vertical-align:top;width:590px;" ><![endif]--><div class=3D"mj-column-per-=
+100 mj-outlook-group-fix" style=3D"font-size:0px;text-align:left;direction:=
+ltr;display:inline-block;vertical-align:top;width:100%;"><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" width=3D"100%">=
+<tbody><tr><td style=3D"background-color:transparent;border-bottom:none;bor=
+der-left:none;border-right:none;border-top:none;vertical-align:top;padding:=
+0;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"present=
+ation" width=3D"100%"><tbody><tr><td align=3D"left" class=3D"gr-mltext-peed=
+tj gr-mltext-jkroei" style=3D"font-size:0px;padding:10px;word-break:break-w=
+ord;"><div style=3D"font-family:Ubuntu, Helvetica, Arial, sans-serif;font-s=
+ize:13px;line-height:1.4;text-align:left;color:#000000;"><p style=3D"font-f=
+amily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:nor=
+mal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;ma=
+rgin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span sty=
+le=3D"font-size: 18px">You will never ever again explain anything in short =
+after you read this email.</span></p><p style=3D"font-family:Arial;font-siz=
+e:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;">=
+<br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-=
+bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-fami=
+ly:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal=
+;color:#000000;"><span style=3D"font-size: 18px">Watch.</span></p><p style=
+=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-=
+weight:normal;color:#000000;"><br></p></div></td></tr><tr><td align=3D"left=
+" class=3D"gr-mltext-peedtj gr-mltext-qfxxsn" style=3D"font-size:0px;paddin=
+g:10px;word-break:break-word;"><div style=3D"font-family:Ubuntu, Helvetica,=
+ Arial, sans-serif;font-size:13px;line-height:1.4;text-align:left;color:#00=
+0000;"><div style=3D"text-align: center;"><p style=3D"font-family:Arial;fon=
+t-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#0000=
+00;"><span style=3D"font-size: 22px">The day I refused to tell my wife what=
+ she wanted to hear</span></p></div></div></td></tr><tr><td align=3D"left" =
+class=3D"gr-mltext-peedtj gr-mltext-tafims" style=3D"font-size:0px;padding:=
+10px;word-break:break-word;"><div style=3D"font-family:Ubuntu, Helvetica, A=
+rial, sans-serif;font-size:13px;line-height:1.4;text-align:left;color:#0000=
+00;"><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bot=
+tom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:=
+Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;co=
+lor:#000000;"><span style=3D"font-size: 18px">That day was yesterday.</span=
+></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bot=
+tom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:=
+Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;co=
+lor:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-t=
+op:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"=
+font-size: 18px">We were walking on the beautiful beach in Punta Cana when =
+my wife looks at me and goes...</span></p><p style=3D"font-family:Arial;fon=
+t-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#0000=
+00;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;ma=
+rgin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font=
+-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:n=
+ormal;color:#000000;"><strong><span style=3D"font-size: 18px">Wife: </span>=
+</strong><span style=3D"font-size: 18px">You look super relaxed.</span></p>=
+<p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0=
+px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px">How d=
+id you let go of everything that was bothering you yesterday?</span></p><p =
+style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;=
+font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;fo=
+nt-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000=
+000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-siz=
+e: 18px"><u>Me</u></span><span style=3D"font-size: 18px">: I watched an inc=
+redible course.</span></p><p style=3D"font-family:Arial;font-size:14px;marg=
+in-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=
+=3D"font-size: 18px">It allowed me to let go of all the crap in my head and=
+ just relax.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-=
+top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p sty=
+le=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fon=
+t-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-=
+size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000=
+;"><strong><span style=3D"font-size: 18px">Wife</span></strong><span style=
+=3D"font-size: 18px">: I want that too! Tell me what the gist of the course=
+ was.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px=
+;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"f=
+ont-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weigh=
+t:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14=
+px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><spa=
+n style=3D"font-size: 18px"><u>Me:</u></span><span style=3D"font-size: 18px=
+">&nbsp;NO. Watch the course.</span></p><p style=3D"font-family:Arial;font-=
+size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000=
+;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;marg=
+in-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-f=
+amily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:nor=
+mal;color:#000000;"><span style=3D"font-size: 18px">She obviously didn't li=
+ke that answer.</span></p><p style=3D"font-family:Arial;font-size:14px;marg=
+in-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=
+=3D"font-size: 18px">But I insisted that I would not tell her what the cour=
+se was all about.</span></p><p style=3D"font-family:Arial;font-size:14px;ma=
+rgin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><=
+p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0p=
+x;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;=
+font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#0=
+00000;"><span style=3D"font-size: 18px">Why?</span></p><p style=3D"font-fam=
+ily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:norma=
+l;color:#000000;"><br></p></div></td></tr><tr><td align=3D"left" class=3D"g=
+r-mltext-peedtj gr-mltext-yncyys" style=3D"font-size:0px;padding:10px;word-=
+break:break-word;"><div style=3D"font-family:Ubuntu, Helvetica, Arial, sans=
+-serif;font-size:13px;line-height:1.4;text-align:left;color:#000000;"><div =
+style=3D"text-align: center;"><p style=3D"font-family:Arial;font-size:14px;=
+margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span s=
+tyle=3D"font-size: 22px">For the same reason that hard-value doesn't sell</=
+span></p></div></div></td></tr><tr><td align=3D"left" class=3D"gr-mltext-pe=
+edtj gr-mltext-mqbxip" style=3D"font-size:0px;padding:10px;word-break:break=
+-word;"><div style=3D"font-family:Ubuntu, Helvetica, Arial, sans-serif;font=
+-size:13px;line-height:1.4;text-align:left;color:#000000;"><p style=3D"font=
+-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:n=
+ormal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;=
+margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span s=
+tyle=3D"font-size: 18px">I'll explain.</span></p><p style=3D"font-family:Ar=
+ial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;colo=
+r:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top=
+:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=
+=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-=
+weight:normal;color:#000000;"><span style=3D"font-size: 18px">Eddy Quan twe=
+eted this yesterday:</span></p><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></=
+p></div></td></tr><tr><td align=3D"center" class=3D"gr-mlimage-yfknxo gr-ml=
+image-phvcoq link-id-" style=3D"font-size:0px;padding:0;word-break:break-wo=
+rd;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presen=
+tation" style=3D"border-collapse:collapse;border-spacing:0px;"><tbody><tr><=
+td style=3D"width:590px;"><img alt=3D"" src=3D"https://us-ms.gr-cdn.com/get=
+response-MSfRZ/photos/a619c149-661e-40a2-86f2-bd1ec0de385a.png" style=3D"bo=
+rder:0;border-left:0 none #000000;border-right:0 none #000000;border-top:0 =
+none #000000;border-bottom:0 none #000000;border-radius:0;display:block;out=
+line:none;text-decoration:none;height:auto;width:100%;font-size:13px;" widt=
+h=3D"590" height=3D"auto"></td></tr></tbody></table></td></tr><tr><td align=
+=3D"left" class=3D"gr-mltext-peedtj gr-mltext-isvybv" style=3D"font-size:0p=
+x;padding:10px;word-break:break-word;"><div style=3D"font-family:Ubuntu, He=
+lvetica, Arial, sans-serif;font-size:13px;line-height:1.4;text-align:left;c=
+olor:#000000;"><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;=
+margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fo=
+nt-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight=
+:normal;color:#000000;"><span style=3D"font-size: 18px">I obviously retweet=
+ed.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fon=
+t-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:=
+normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span =
+style=3D"font-size: 18px">Why?</span></p><p style=3D"font-family:Arial;font=
+-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#00000=
+0;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;mar=
+gin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-=
+family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:no=
+rmal;color:#000000;"><span style=3D"font-size: 18px">Because Eddy is right.=
+</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;marg=
+in-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-f=
+amily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:nor=
+mal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;ma=
+rgin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span sty=
+le=3D"font-size: 18px">Hard value doesn't sell. You can write all the best =
+&quot;How to&quot; posts or tweets or emails or WHATEVER.</span></p><p styl=
+e=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font=
+-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-s=
+ize:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;=
+"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margi=
+n-bottom:0px;font-weight:normal;color:#000000;"><strong><span style=3D"font=
+-size: 18px">People will read those. Love it. Say you're the best. Thank yo=
+u. And leave without opening their wallet.</span></strong></p><p style=3D"f=
+ont-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weigh=
+t:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14=
+px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br>=
+</p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bott=
+om:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px">H=
+urts.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px=
+;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"f=
+ont-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weigh=
+t:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14=
+px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><spa=
+n style=3D"font-size: 18px">And is unfair.</span></p><p style=3D"font-famil=
+y:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;=
+color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin=
+-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p st=
+yle=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fo=
+nt-weight:normal;color:#000000;"><span style=3D"font-size: 18px">I know.</s=
+pan></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-=
+bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-fami=
+ly:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal=
+;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margi=
+n-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=
+=3D"font-size: 18px">But that's life. And that's exactly how it works. EXAC=
+TLY. And that's exactly why I didn't tell my wife what was in the course...=
+</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;marg=
+in-bottom:0px;font-weight:normal;color:#000000;"><br></p></div></td></tr><t=
+r><td align=3D"left" class=3D"gr-mltext-peedtj gr-mltext-ffpmjd" style=3D"f=
+ont-size:0px;padding:10px;word-break:break-word;"><div style=3D"font-family=
+:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.4;text-a=
+lign:left;color:#000000;"><div style=3D"text-align: center;"><p style=3D"fo=
+nt-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight=
+:normal;color:#000000;"><span style=3D"font-size: 22px">Because it's not th=
+e information that does the transformation</span></p></div></div></td></tr>=
+</tbody></table></td></tr></tbody></table></div><!--[if mso | IE]></td></tr=
+></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td=
+></tr></table><table align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"" role=3D"presentation" style=3D"width:600px;" width=
+=3D"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-line-height-ru=
+le:exactly;"><![endif]--><div style=3D"margin:0px auto;max-width:600px;"><t=
+able align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=
+=3D"presentation" style=3D"width:100%;"><tbody><tr><td style=3D"border-bott=
+om:0 none #000000;border-left:0 none #000000;border-right:0 none #000000;bo=
+rder-top:0 none #000000;direction:ltr;font-size:0px;padding:5px;text-align:=
+center;"><!--[if mso | IE]><table role=3D"presentation" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-align:to=
+p;width:590px;" ><![endif]--><div class=3D"mj-column-per-100 mj-outlook-gro=
+up-fix" style=3D"font-size:0px;text-align:left;direction:ltr;display:inline=
+-block;vertical-align:top;width:100%;"><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" role=3D"presentation" width=3D"100%"><tbody><tr><td sty=
+le=3D"background-color:transparent;border-bottom:none;border-left:none;bord=
+er-right:none;border-top:none;vertical-align:top;padding:0;"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" width=3D"1=
+00%"><tbody><tr><td align=3D"left" class=3D"gr-mltext-peedtj gr-mltext-hkeu=
+dj" style=3D"font-size:0px;padding:10px;word-break:break-word;"><div style=
+=3D"font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-he=
+ight:1.4;text-align:left;color:#000000;"><p style=3D"font-family:Arial;font=
+-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#00000=
+0;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;mar=
+gin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size:=
+ 18px">Imagine this.</span></p><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></=
+p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom=
+:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Ari=
+al;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color=
+:#000000;"><span style=3D"font-size: 18px">I tell my wife what the gist of =
+the course was. It was three simple questions that you can ask yourself to =
+relax your mind.</span></p><p style=3D"font-family:Arial;font-size:14px;mar=
+gin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p=
+ style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px=
+;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;f=
+ont-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#00=
+0000;"><span style=3D"font-size: 18px">I share those three questions with h=
+er.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fon=
+t-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:=
+normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span =
+style=3D"font-size: 18px">Her mind goes: &quot;ah cool thanks -- I already =
+know those because I've heard about them somewhere on Instagram. Thanks!&qu=
+ot;</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fon=
+t-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:=
+normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span =
+style=3D"font-size: 18px">And...</span></p><p style=3D"font-family:Arial;fo=
+nt-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000=
+000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fon=
+t-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:=
+normal;color:#000000;"><span style=3D"font-size: 18px">That's it.</span></p=
+><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:=
+0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Aria=
+l;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:=
+#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0=
+px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font=
+-size: 18px">She will never do the thing. She will never take a piece of pa=
+per and write down three answers to those three questions.</span></p><p sty=
+le=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fon=
+t-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-=
+size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000=
+;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;marg=
+in-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: =
+18px">BUT WHY?</span></p><p style=3D"font-family:Arial;font-size:14px;margi=
+n-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p s=
+tyle=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;f=
+ont-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;fon=
+t-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#0000=
+00;"><strong><span style=3D"font-size: 18px">She wanted what I had. I got w=
+hat I had by doing this exercise. She got that exercise. And she won't foll=
+ow through.</span></strong></p><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></=
+p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom=
+:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Ari=
+al;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color=
+:#000000;"><span style=3D"font-size: 18px">WHAT THE FK IS THIS?</span></p><=
+p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0p=
+x;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;=
+font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#0=
+00000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px=
+;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-s=
+ize: 18px">Weird ah?</span></p><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span =
+style=3D"font-size: 18px">I know.</span></p><p style=3D"font-family:Arial;f=
+ont-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#00=
+0000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;=
+margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fo=
+nt-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight=
+:normal;color:#000000;"><span style=3D"font-size: 18px">Now let me explain =
+how this whole thing works.</span></p><p style=3D"font-family:Arial;font-si=
+ze:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"=
+><span style=3D"font-size: 18px">Ready?</span></p><p style=3D"font-family:A=
+rial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;col=
+or:#000000;"><br></p></div></td></tr><tr><td align=3D"left" class=3D"gr-mlt=
+ext-peedtj gr-mltext-qwokhq" style=3D"font-size:0px;padding:10px;word-break=
+:break-word;"><div style=3D"font-family:Ubuntu, Helvetica, Arial, sans-seri=
+f;font-size:13px;line-height:1.4;text-align:left;color:#000000;"><div style=
+=3D"text-align: center;"><p style=3D"font-family:Arial;font-size:14px;margi=
+n-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=
+=3D"font-size: 22px">It's the <strong>wrapping</strong>&nbsp;that matters.<=
+/span></p></div><div style=3D"text-align: center;"><p style=3D"font-family:=
+Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;co=
+lor:#000000;"><span style=3D"font-size: 22px">Not the essence.</span></p></=
+div><div style=3D"text-align: center;"><p style=3D"font-family:Arial;font-s=
+ize:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;=
+"><span style=3D"font-size: 22px">Yes. Your gurus were wrong.</span></p></d=
+iv></div></td></tr><tr><td align=3D"left" class=3D"gr-mltext-peedtj gr-mlte=
+xt-watjds" style=3D"font-size:0px;padding:10px;word-break:break-word;"><div=
+ style=3D"font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;l=
+ine-height:1.4;text-align:left;color:#000000;"><p style=3D"font-family:Aria=
+l;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:=
+#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0=
+px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font=
+-size: 18px">It's not the three questions that made me relax my mind.</span=
+></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bot=
+tom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:=
+Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;co=
+lor:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-t=
+op:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"=
+font-size: 18px">It's the two-hour audio file that I listened to where the =
+creator of the course goes on and on telling stories that gave me AHA momen=
+ts.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fon=
+t-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:=
+normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px=
+;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span =
+style=3D"font-size: 18px">=E2=80=A2=C2=A0Changed my perspective.</span></p>=
+<p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0=
+px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial=
+;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#=
+000000;"><span style=3D"font-size: 18px">=E2=80=A2=C2=A0Showed me my &quot;=
+problem&quot; from a different angle.</span></p><p style=3D"font-family:Ari=
+al;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color=
+:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:=
+0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"fon=
+t-size: 18px">=E2=80=A2=C2=A0Allowed my brain to accept a new solution.</sp=
+an></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-b=
+ottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-famil=
+y:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;=
+color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin=
+-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=
+=3D"font-size: 18px">Understand?</span></p><p style=3D"font-family:Arial;fo=
+nt-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000=
+000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fon=
+t-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:=
+normal;color:#000000;"><strong><span style=3D"font-size: 18px">The three qu=
+estions are just something to give to the logical part of the brain that ke=
+eps complaining...</span></strong></p><p style=3D"font-family:Arial;font-si=
+ze:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"=
+><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin=
+-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-fam=
+ily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:norma=
+l;color:#000000;"><strong><span style=3D"font-size: 18px">&quot;But where's=
+ the juice? It's just stories...&quot;</span></strong></p><p style=3D"font-=
+family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:no=
+rmal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;m=
+argin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p>=
+<p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0=
+px;font-weight:normal;color:#000000;"><strong><span style=3D"font-size: 18p=
+x">The three questions are just the </span></strong><em><strong><span style=
+=3D"font-size: 18px">&quot;SHUT UP LOGICAL BRAIN. You're useless here so he=
+re's a candy for you to relax. NOW SHUT UP!&quot;</span></strong></em></p><=
+p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0p=
+x;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;=
+font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#0=
+00000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px=
+;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-s=
+ize: 18px">The three questions are the &quot;essence&quot; that everyone is=
+ always looking for because they think that's where the &quot;secret&quot; =
+lies.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px=
+;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"f=
+ont-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weigh=
+t:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14=
+px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><spa=
+n style=3D"font-size: 18px">They're wrong.</span></p><p style=3D"font-famil=
+y:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;=
+color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin=
+-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p st=
+yle=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fo=
+nt-weight:normal;color:#000000;"><span style=3D"font-size: 18px">Their logi=
+cal brain plays a game on them.</span></p><p style=3D"font-family:Arial;fon=
+t-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#0000=
+00;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;ma=
+rgin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font=
+-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:n=
+ormal;color:#000000;"><span style=3D"font-size: 18px">Understand?</span></p=
+><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:=
+0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Aria=
+l;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:=
+#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0=
+px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font=
+-size: 18px">This is why I didn't want to share the three questions with my=
+ wife. She wouldn't do the exercise. And even if she did? It'd do nothing f=
+or her.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0=
+px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D=
+"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-wei=
+ght:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:=
+14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><s=
+pan style=3D"font-size: 18px">And now you know...</span></p><p style=3D"fon=
+t-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:=
+normal;color:#000000;"><br></p></div></td></tr><tr><td align=3D"left" class=
+=3D"gr-mltext-peedtj gr-mltext-yolqbn" style=3D"font-size:0px;padding:10px;=
+word-break:break-word;"><div style=3D"font-family:Ubuntu, Helvetica, Arial,=
+ sans-serif;font-size:13px;line-height:1.4;text-align:left;color:#000000;">=
+<div style=3D"text-align: center;"><p style=3D"font-family:Arial;font-size:=
+14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><s=
+pan style=3D"font-size: 22px">Why my list SELLS SO DAMN MUCH</span></p></di=
+v></div></td></tr><tr><td align=3D"left" class=3D"gr-mltext-peedtj gr-mltex=
+t-xfqxhk" style=3D"font-size:0px;padding:10px;word-break:break-word;"><div =
+style=3D"font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;li=
+ne-height:1.4;text-align:left;color:#000000;"><p style=3D"font-family:Arial=
+;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#=
+000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0p=
+x;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-=
+size: 18px">And it doesn't only sell so damn much.</span></p><p style=3D"fo=
+nt-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight=
+:normal;color:#000000;"><span style=3D"font-size: 18px">There's more.</span=
+></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bot=
+tom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:=
+Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;co=
+lor:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-t=
+op:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"=
+font-size: 18px">Because most of the lists that sell &quot;a lot&quot; are =
+very aggressive in their selling.</span></p><p style=3D"font-family:Arial;f=
+ont-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#00=
+0000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;=
+margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"fo=
+nt-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight=
+:normal;color:#000000;"><span style=3D"font-size: 18px">Timers. Last spots =
+left. Lies. Exaggeration.</span></p><p style=3D"font-family:Arial;font-size=
+:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><=
+br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-b=
+ottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-famil=
+y:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;=
+color:#000000;"><span style=3D"font-size: 18px">But I do none of that and s=
+till...</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0=
+px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D=
+"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-wei=
+ght:normal;color:#000000;"><span style=3D"font-size: 18px">=E2=80=A2=C2=A0A=
+ huge chuck of my list buys from me</span></p><p style=3D"font-family:Arial=
+;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#=
+000000;"><span style=3D"font-size: 18px">=E2=80=A2 I never EVER got a refun=
+d request</span></p><p style=3D"font-family:Arial;font-size:14px;margin-top=
+:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"fo=
+nt-size: 18px">=E2=80=A2 My clients are THAT happy</span></p><p style=3D"fo=
+nt-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight=
+:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14p=
+x;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br><=
+/p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-botto=
+m:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px">No=
+w you know why.</span></p><p style=3D"font-family:Arial;font-size:14px;marg=
+in-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p =
+style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;=
+font-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;fo=
+nt-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000=
+000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;m=
+argin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-siz=
+e: 18px">P.S.</span></p><p style=3D"font-family:Arial;font-size:14px;margin=
+-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p st=
+yle=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fo=
+nt-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font=
+-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#00000=
+0;"><span style=3D"font-size: 18px">You'll soon be able to do this with you=
+r list too.</span></p><p style=3D"font-family:Arial;font-size:14px;margin-t=
+op:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"=
+font-size: 18px">I'm working hard on finishing the course.</span></p><p sty=
+le=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;fon=
+t-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-=
+size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000=
+;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;marg=
+in-bottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-f=
+amily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:nor=
+mal;color:#000000;"><span style=3D"font-size: 18px">P.P.S</span></p><p styl=
+e=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font=
+-weight:normal;color:#000000;"><br></p><p style=3D"font-family:Arial;font-s=
+ize:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;=
+"><br></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margi=
+n-bottom:0px;font-weight:normal;color:#000000;"><span style=3D"font-size: 1=
+8px">No. I won't share with you the &quot;relaxation&quot; course I mention=
+ed in this email. But I will share it with you AFTER I do the storytelling =
+launch. So don't ask. I won't respond. Sorry.</span></p><p style=3D"font-fa=
+mily:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:norm=
+al;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;mar=
+gin-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p=
+ style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px=
+;font-weight:normal;color:#000000;"><span style=3D"font-size: 18px">Oh.</sp=
+an></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-b=
+ottom:0px;font-weight:normal;color:#000000;"><br></p><p style=3D"font-famil=
+y:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal;=
+color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margin=
+-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><span style=
+=3D"font-size: 18px">Maybe I should share that relaxation course only with =
+those who buy my email storytelling course?</span></p><p style=3D"font-fami=
+ly:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;font-weight:normal=
+;color:#000000;"><br></p><p style=3D"font-family:Arial;font-size:14px;margi=
+n-top:0px;margin-bottom:0px;font-weight:normal;color:#000000;"><br></p><p s=
+tyle=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-bottom:0px;f=
+ont-weight:normal;color:#000000;"><span style=3D"font-size: 18px">Heh :)</s=
+pan></p><p style=3D"font-family:Arial;font-size:14px;margin-top:0px;margin-=
+bottom:0px;font-weight:normal;color:#000000;"><br></p></div></td></tr><tr><=
+td align=3D"center" class=3D"gr-footer-vncttp gr-footer-ukdbfw" style=3D"fo=
+nt-size:0px;padding:10px;word-break:break-word;"><div style=3D"font-family:=
+Arial;font-size:10px;font-style:normal;line-height:1;text-align:center;text=
+-decoration:none;color:#000000;"><div>You may <a href=3D"https://app.getres=
+ponse.com/unsubscribe.html?x=3Da62b&m=3DB0CUgA&mc=3DCX&s=3DBQMFueT&u=3DMSfR=
+Z&z=3DEQSAy2b&pt=3Dunsubscribe" target=3D"_blank">unsubscribe</a> or <a hre=
+f=3D"https://app.getresponse.com/change_details.html?x=3Da62b&m=3DB0CUgA&s=
+=3DBQMFueT&u=3DMSfRZ&z=3DEFlCSWs&pt=3Dchange_details" target=3D"_blank">cha=
+nge your contact details</a> at any time.</div></div></td></tr></tbody></ta=
+ble></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![=
+endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></tabl=
+e><![endif]--><table align=3D"center" style=3D"font-family: 'Roboto', Helve=
+tica, sans-serif; font-weight: 400; letter-spacing: .018em; text-align: cen=
+ter; font-size: 10px;"><tr><td style=3D"padding-bottom: 20px"></td></tr></t=
+able></div></body></html><img src=3D"https://app.getresponse.com/open.html?=
+x=3Da62b&m=3DB0CUgA&mc=3DCX&s=3DBQMFueT&u=3DMSfRZ&z=3DE9TBMkV&" width=3D"0"=
+ height=3D"0" border=3D"0" alt=3D"" role=3D"presentation" />=
+
+--6ba166283a3a0f43a5a67067a24f12f3--
