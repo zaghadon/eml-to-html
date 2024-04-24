@@ -1,0 +1,9 @@
+Subject: =?UTF-8?Q?Mixed_Characters?=
+
+This email contains a mix of characters from different encodings:
+
+* € (Euro) - ISO-8859-1
+* руб (Russian Ruble) - Windows-1251
+* 王 (Wáng - King in Chinese) - GBK
+
+Some characters might not display correctly depending on your email client's encoding settings.
